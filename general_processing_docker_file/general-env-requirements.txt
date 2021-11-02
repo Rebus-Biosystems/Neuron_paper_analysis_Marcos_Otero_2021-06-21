@@ -1,0 +1,17 @@
+cookiecutter
+python-json-logger
+quilt3[pyarrow]
+dask
+bokeh
+ipykernel
+napari[all]
+scipy
+scikit-learn
+scikit-image==0.18.0rc0
+jupyterlab
+matplotlib
+zarr
+pyarrow
+pandas
+ipympl
+dask-labextension
